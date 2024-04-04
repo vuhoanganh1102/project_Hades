@@ -1,0 +1,5 @@
+export const jwtConstants = {
+  accessTokenKey:
+    'DO NOT USE THIS VALUE. INSTEAD, CREATE A COMPLEX SECRET AND KEEP IT SAFE OUTSIDE OF THE SOURCE CODE.',
+  refreshTokenKey: 'USE TO GET TOKEN BUT DONT SIGN IN.',
+};
